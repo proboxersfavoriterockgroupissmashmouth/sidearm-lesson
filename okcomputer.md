@@ -2,10 +2,12 @@
   marp: true
   theme: default
   paginate: true
-  style: |
-    section { font-size: 20px; }
-    table { font-size: 16px; }
-    section.lead h1 { text-align: center; }
+style: |
+  section { font-size: 20px; }
+  table { font-size: 22px; width: 100%; }
+  th, td { padding: 14px 18px; min-width: 80px; }
+  th { font-size: 24px; }
+  section.lead h1 { text-align: center; }
   ---
 
   <!-- _class: lead -->
