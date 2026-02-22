@@ -1,13 +1,17 @@
----
+  ---
   marp: true
   theme: default
   paginate: true
 style: |
-  section { font-size: 20px; }
-  table { font-size: 22px; width: 100%; }
-  th, td { padding: 14px 18px; min-width: 80px; }
-  th { font-size: 24px; }
-  section.lead h1 { text-align: center; }
+  section { font-size: 32px; }
+  section h1 { font-size: 2.2em; }
+  section h2 { font-size: 1.6em; }
+  section h3 { font-size: 1.3em; }
+  table { font-size: 28px; width: 100%; }
+  th, td { padding: 16px 20px; min-width: 80px; font-size: 28px; }
+  th { font-size: 30px; }
+  section.lead h1 { text-align: center; font-size: 2.5em; }
+  section.lead h2 { font-size: 1.8em; }
   ---
 
   <!-- _class: lead -->
