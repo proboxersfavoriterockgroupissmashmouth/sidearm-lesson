@@ -3,15 +3,18 @@
   theme: default
   paginate: true
 style: |
-  section { font-size: 32px; }
-  section h1 { font-size: 2.2em; }
-  section h2 { font-size: 1.6em; }
-  section h3 { font-size: 1.3em; }
-  table { font-size: 28px; width: 100%; }
-  th, td { padding: 16px 20px; min-width: 80px; font-size: 28px; }
-  th { font-size: 30px; }
-  section.lead h1 { text-align: center; font-size: 2.5em; }
-  section.lead h2 { font-size: 1.8em; }
+  section { font-size: 42px; }
+  section h1 { font-size: 2.8em; }
+  section h2 { font-size: 2.2em; }
+  section h3 { font-size: 1.8em; }
+  section p, section li { font-size: 42px; }
+  table { font-size: 38px; width: 100%; }
+  th, td { padding: 20px 24px; min-width: 80px; font-size: 38px; }
+  th { font-size: 40px; }
+  section.lead h1 { text-align: center; font-size: 3.2em; }
+  section.lead h2 { font-size: 2.4em; }
+  section.lead p { font-size: 44px; }
+  strong { font-size: 1.05em; }
   ---
 
   <!-- _class: lead -->
